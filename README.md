@@ -2,7 +2,7 @@
 Avaliable scripts for both Windows & Linux systems
 
 ## Installation
-git clone <URL> --depth 1
+git clone https://github.com/Li4N/Local-Host-Port-Discovery-Tools.git --depth 1
 
 ```
 ## Linux Usage: 
