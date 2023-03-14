@@ -2,8 +2,9 @@
 Avaliable scripts for both Windows & Linux systems
 
 ## Installation
+```
 git clone https://github.com/Li4N/Local-Host-Port-Discovery-Tools.git --depth 1
-
+```
 ## Linux Usage: 
 ```
    portDiscover.sh <IP> | hostDiscover.sh <RANGE IP as XX.XX.XX> 
