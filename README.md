@@ -1,6 +1,8 @@
 # Custom finder tools
-Avaliable scripts for both Windows & Linux systems
+Avaliable scripts for Linux systems
 
+## TO DO
+   Make an executable of both scripts to work from Windows systems
 ## Installation
 ```
 git clone https://github.com/Li4N/Local-Host-Port-Discovery-Tools.git --depth 1
@@ -11,10 +13,5 @@ git clone https://github.com/Li4N/Local-Host-Port-Discovery-Tools.git --depth 1
    - E.g.: portDiscovers.sh 127.0.0.1
    - E.g.: hostDiscover.sh 127.0.0 
 ```
-## Windows Usage:
-```
-  .\portDiscover.exe <IP> | .\hostDiscover.exe <RANGE IP> 
-   - E.g.: .\portDiscovers.exe 127.0.0.1
-   - E.g.: .\hostDiscover.exe 127.0.0 
-```
+
 
